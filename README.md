@@ -39,7 +39,10 @@ npm i
 
 // next run
 
-npm start![foodapp](https://user-images.githubusercontent.com/85499728/219936453-a6c453b1-e6fa-463b-8543-763bace32283.png)
+npm start
+
+
+![foodapp](https://user-images.githubusercontent.com/85499728/219936453-a6c453b1-e6fa-463b-8543-763bace32283.png)
 
 
 ```
